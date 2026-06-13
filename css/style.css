@@ -102,6 +102,7 @@ li {
 
 .logo {
     color: #ed2224;
+    font-weight: bold;
     font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace;
     font-size: clamp(.34rem, 1.7vw, .6rem);
     line-height: 1.2;
