@@ -41,8 +41,8 @@ body {
     margin: 0;
     padding: 0;
     background:
-        radial-gradient(1200px 600px at 80% -10%, rgba(124, 29, 43, .22), transparent 60%),
-        radial-gradient(900px 500px at 0% 110%, rgba(201, 162, 75, .10), transparent 55%),
+        radial-gradient(1200px 600px at 80% -10%, rgba(124, 29, 43, .10), transparent 60%),
+        radial-gradient(900px 500px at 0% 110%, rgba(201, 162, 75, .05), transparent 55%),
         var(--bg);
     background-attachment: fixed;
     color: var(--ink);
